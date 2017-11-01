@@ -30,12 +30,12 @@
 }
 .column-small-right{
   float:right;
-  width: 32%;
+  width: 30%;
   margin-bottom: 2%;
 }
 .column-left{
   float: left;
-  width: 32%;
+  width: 30%;
 }
 .column-right{
   float: right;
