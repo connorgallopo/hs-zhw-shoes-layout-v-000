@@ -27,7 +27,7 @@
   float:left;
   width: 66%;
   margin-right: 2%;
-  margin-bottom: 2%;
+  /*margin-bottom: 2%;*/
 }
 /*.column-small-right{
   float:right;
@@ -41,7 +41,7 @@
 .column-right{
   float: right;
   width: 32%;
-  margin-bottom: 2%;
+  /*margin-bottom: 2%;*/
 }
 .column-center{
    display: inline-block;
