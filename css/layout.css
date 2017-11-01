@@ -29,6 +29,7 @@
 }
 .column-left{
   float: left;
+  margin: auto;
   width: 30%;
 }
 .column-right{
