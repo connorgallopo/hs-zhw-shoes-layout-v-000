@@ -29,16 +29,16 @@
 }
 .column-left{
   float: left;
-  margin: 15px;
+  margin: 10px;
   width: 30%;
 }
 .column-right{
   float: right;
-  margin: 15px;
+  margin: 10px;
   width: 30%;
 }
 .column-center{
    display: inline-block;
-   margin: 15px;
+   margin: 10px;
    width: 33.33%;
  }
