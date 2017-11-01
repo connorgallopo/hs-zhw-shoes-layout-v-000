@@ -33,16 +33,17 @@
 }
 .column-left{
   float: left;
-  margin: 5px;
+  margin-right: : 5px;
   width: 33%;
 }
 .column-right{
   float: right;
-  margin: 5px;
+  margin-left: : 5px;
   width: 33%;
 }
 .column-center{
    display: inline-block;
-   margin: 5px;
+   margin-left: : 5px;
+   margin-right: 5px;
    width: 33%;
  }
