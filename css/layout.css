@@ -33,7 +33,7 @@
   width: 33%;
   margin-bottom: 2%;
 }
-.column-left{
+..column-left{
   float: left;
   width: 30%;
 }
@@ -42,7 +42,7 @@
   width: 30%;
   margin-bottom: 2%;
 }
-.column-center{
+.c.olumn-center{
    display: inline-block;
    margin-left: 2%;
    margin-right: 2%;
