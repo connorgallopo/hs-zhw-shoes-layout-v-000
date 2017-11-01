@@ -34,9 +34,11 @@
 }
 .column-right{
   float: right;
+  margin: 15px;
   width: 30%;
 }
 .column-center{
    display: inline-block;
+   margin: 15px;
    width: 33.33%;
  }
