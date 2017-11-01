@@ -40,7 +40,7 @@
 .column-right{
   float: right;
   width: 33%;
-  margin-bottom: 2%;
+  /*margin-bottom: 2%;*/
 }
 .column-center{
    display: inline-block;
