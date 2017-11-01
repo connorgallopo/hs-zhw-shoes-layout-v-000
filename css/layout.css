@@ -23,12 +23,19 @@
 }
 
 /* Posititoning Classes */
+.column-left-large{
+  float:left;
+  width: 65%;
+}
 .column-left{
-  float: left; width: 33.33%;
+  float: left;
+  width: 33.33%;
 }
 .column-right{
-  float: right; width: 33.33%;
+  float: right;
+  width: 33.33%;
 }
 .column-center{
-   display: inline-block; width: 33.33%;
+   display: inline-block;
+   width: 33.33%;
  }
