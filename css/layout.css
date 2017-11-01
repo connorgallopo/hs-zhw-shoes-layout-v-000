@@ -27,23 +27,23 @@
   float:left;
   width: 65%;
 }
-.column-small-right-{
+.column-small-right{
   float:right;
   width: 25%;
 }
 .column-left{
   float: left;
-  margin: : 10px;
+  margin-right: 10px;
   width: 26.66%;
 }
 .column-right{
   float: right;
-  margin-left: : 10px;
+  margin-left: 10px;
   width: 26.66%;
 }
 .column-center{
    display: inline-block;
-   margin-left: : 10px;
+   margin-left: 10px;
    margin-right: 10px;
    width: 26.66%;
  }
