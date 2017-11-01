@@ -33,15 +33,15 @@
 }
 .column-left{
   float: left;
-  width: 30%;
+  width: 32%;
 }
 .column-right{
   float: right;
-  width: 30%;
+  width: 32%;
 }
 .column-center{
    display: inline-block;
    margin-left: 2%;
    margin-right: 2%;
-   width: 30%;
+   width: 32%;
  }
