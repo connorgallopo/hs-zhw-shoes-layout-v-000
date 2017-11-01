@@ -25,21 +25,21 @@
 /* Posititoning Classes */
 .column-left-large{
   float:left;
-  width: 66%;
+  width: 67.33%;
   margin-bottom: 2%;
 }
 .column-small-right{
   float:right;
-  width: 33%;
+  width: 32.66%;
   margin-bottom: 2%;
 }
 .column-left{
   float: left;
-  width: 30%;
+  width: 32.66%;
 }
 .column-right{
   float: right;
-  width: 30%;
+  width: 32.66%;
   margin-bottom: 2%;
 }
 .column-center{
