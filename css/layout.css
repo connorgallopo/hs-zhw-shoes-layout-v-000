@@ -28,6 +28,10 @@
   margin-right: 10px;
   width: 65%;
 }
+.column-small-right{
+  float:right;
+  width: 20%;
+}
 .column-left{
   float: left;
   margin: 10px;
