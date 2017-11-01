@@ -29,11 +29,11 @@
   margin-right: 2%;
   margin-bottom: 2%;
 }
-/*.column-small-right{
+.column-small-right{
   float:right;
-  width: 32.6%;
+  width: 31%;
   margin-bottom: 2%;
-}*/
+}
 .column-left{
   float: left;
   width: 31%;
@@ -41,11 +41,10 @@
 .column-right{
   float: right;
   width: 31%;
-  margin-bottom: 2%;
 }
 .column-center{
    display: inline-block;
-   margin-left: .5%;
-   margin-right: .5%;
+   /*margin-left: .5%;
+   margin-right: .5%;*/
    width: 31%;
  }
