@@ -25,26 +25,27 @@
 /* Posititoning Classes */
 .column-left-large{
   float:left;
-  width: 67%;
+  width: 66%;
   margin-right: 2%;
   margin-bottom: 2%;
 }
-.column-small-right{
+/*.column-small-right{
   float:right;
-  width: 31%;
+  width: 32.6%;
   margin-bottom: 2%;
-}
+}*/
 .column-left{
   float: left;
-  width: 31%;
+  width: 32%;
 }
 .column-right{
   float: right;
-  width: 31%;
+  width: 32%;
+  margin-bottom: 2%;
 }
 .column-center{
    display: inline-block;
-   /*margin-left: .5%;
-   margin-right: .5%;*/
-   width: 31%;
+   margin-left: 2%;
+   margin-right: 2%;
+   width: 32%;
  }
