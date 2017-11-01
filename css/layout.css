@@ -26,6 +26,7 @@
 .column-left-large{
   float:left;
   width: 65.33%;
+  margin-right: 2%;
   margin-bottom: 2%;
 }
 .column-small-right{
