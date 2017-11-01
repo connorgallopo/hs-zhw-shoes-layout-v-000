@@ -25,11 +25,11 @@
 /* Posititoning Classes */
 .column-left-large{
   float:left;
-  width: 65%;
+  width: 66%;
 }
-.column-small-right-{
+.column-small-right{
   float:right;
-  width: 25%;
+  width: 32%;
 }
 .column-left{
   float: left;
