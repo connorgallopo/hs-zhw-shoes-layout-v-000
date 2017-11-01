@@ -33,7 +33,6 @@
 }
 .column-left{
   float: left;
-  margin-right: 10px;
   width: 31%;
 }
 .column-right{
@@ -42,5 +41,7 @@
 }
 .column-center{
    display: inline-block;
+   margin-left: 20px;
+   margin-right: 20px
    width: 31%;
  }
