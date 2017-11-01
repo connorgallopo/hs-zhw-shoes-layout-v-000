@@ -34,16 +34,16 @@
 .column-left{
   float: left;
   margin-right: : 10px;
-  width: 30%;
+  width: 26.66%;
 }
 .column-right{
   float: right;
   margin-left: : 10px;
-  width: 30%;
+  width: 26.66%;
 }
 .column-center{
    display: inline-block;
    margin-left: : 10px;
    margin-right: 10px;
-   width: 30%;
+   width: 26.66%;
  }
